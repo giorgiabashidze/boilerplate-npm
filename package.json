@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Giorgi Abashidze",
+	"author": {"name": "Giorgi Abashidze"},
 	"dependencies": {
 		"express": "^4.14.0"
 	},
